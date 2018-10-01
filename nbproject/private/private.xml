@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ndjaka/Documents/NetBeansProjects/gesfa/src/java/com/winmoney/entities/Service.java</file>
+            <file>file:/C:/Users/ndjaka/Documents/NetBeansProjects/gesfa/src/java/com/winmoney/entities/Dg.java</file>
+            <file>file:/C:/Users/ndjaka/Documents/NetBeansProjects/gesfa/src/java/com/winmoney/entities/Chefservice.java</file>
+            <file>file:/C:/Users/ndjaka/Documents/NetBeansProjects/gesfa/src/java/com/winmoney/hibernate/HibernateUtil.java</file>
+            <file>file:/C:/Users/ndjaka/Documents/NetBeansProjects/gesfa/src/java/com/winmoney/entities/ProduitService.java</file>
+            <file>file:/C:/Users/ndjaka/Documents/NetBeansProjects/gesfa/test/Test.java</file>
+            <file>file:/C:/Users/ndjaka/Documents/NetBeansProjects/gesfa/src/java/com/winmoney/entities/Client.java</file>
+            <file>file:/C:/Users/ndjaka/Documents/NetBeansProjects/gesfa/src/java/com/winmoney/entities/Caracteristique.java</file>
+            <file>file:/C:/Users/ndjaka/Documents/NetBeansProjects/gesfa/src/java/com/winmoney/entities/ChefServiceOuvrier.java</file>
+            <file>file:/C:/Users/ndjaka/Documents/NetBeansProjects/gesfa/src/java/com/winmoney/entities/ChefServiceOuvrierId.java</file>
+            <file>file:/C:/Users/ndjaka/Documents/NetBeansProjects/gesfa/src/java/com/winmoney/entities/Fournisseur.java</file>
+            <file>file:/C:/Users/ndjaka/Documents/NetBeansProjects/gesfa/src/java/com/winmoney/entities/Secretaire.java</file>
+            <file>file:/C:/Users/ndjaka/Documents/NetBeansProjects/gesfa/src/java/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/ndjaka/Documents/NetBeansProjects/gesfa/src/java/com/winmoney/entities/Commandeproduit.java</file>
+            <file>file:/C:/Users/ndjaka/Documents/NetBeansProjects/gesfa/src/java/hibernate.reveng.xml</file>
+            <file>file:/C:/Users/ndjaka/Documents/NetBeansProjects/gesfa/test/DgTest.java</file>
+            <file>file:/C:/Users/ndjaka/Documents/NetBeansProjects/gesfa/src/java/com/winmoney/modeldao/SecretaireDao.java</file>
+            <file>file:/C:/Users/ndjaka/Documents/NetBeansProjects/gesfa/src/java/com/winmoney/dao/DAO.java</file>
+            <file>file:/C:/Users/ndjaka/Documents/NetBeansProjects/gesfa/src/java/com/winmoney/entities/Commande.java</file>
+            <file>file:/C:/Users/ndjaka/Documents/NetBeansProjects/gesfa/src/java/com/winmoney/entities/Ouvrier.java</file>
+            <file>file:/C:/Users/ndjaka/Documents/NetBeansProjects/gesfa/src/java/com/winmoney/entities/Promoteur.java</file>
+            <file>file:/C:/Users/ndjaka/Documents/NetBeansProjects/gesfa/src/java/com/winmoney/entities/ClientCommande.java</file>
+            <file>file:/C:/Users/ndjaka/Documents/NetBeansProjects/gesfa/src/java/com/winmoney/entities/Produit.java</file>
+        </group>
+    </open-files>
+</project-private>

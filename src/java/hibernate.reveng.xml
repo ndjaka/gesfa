@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd">
+<hibernate-reverse-engineering>
+  <schema-selection match-catalog="gesfa_db" match-schema="public"/>
+  <table-filter match-name="caracteristique"/>
+  <table-filter match-name="ouvrier"/>
+  <table-filter match-name="dg"/>
+  <table-filter match-name="matierepremiere"/>
+  <table-filter match-name="chefservice"/>
+  <table-filter match-name="secretaire"/>
+  <table-filter match-name="client_commande"/>
+  <table-filter match-name="chef_service_ouvrier"/>
+  <table-filter match-name="client"/>
+  <table-filter match-name="commandeproduit"/>
+  <table-filter match-name="fournisseur"/>
+  <table-filter match-name="commande"/>
+  <table-filter match-name="produit_service"/>
+  <table-filter match-name="matiere_premiere_produit"/>
+  <table-filter match-name="service"/>
+  <table-filter match-name="produit"/>
+  <table-filter match-name="promoteur"/>
+</hibernate-reverse-engineering>

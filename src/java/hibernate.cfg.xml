@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+  <session-factory>
+    <property name="hibernate.dialect">org.hibernate.dialect.PostgreSQLDialect</property>
+    <property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
+    <property name="hibernate.connection.url">jdbc:postgresql://localhost:5432/gesfa_db</property>
+    <property name="hibernate.connection.username">postgres</property>
+    <property name="hibernate.connection.password">ndjaka</property>
+    <property name="hibernate.show_sql">false</property>
+    <property name="hibernate.current_session_context_class">thread</property>
+    <property name="hibernate.query.factory_class">org.hibernate.hql.internal.classic.ClassicQueryTranslatorFactory</property>
+    <mapping class="com.winmoney.entities.Fournisseur"/>
+    <mapping class="com.winmoney.entities.MatierePremiereProduitId"/>
+    <mapping class="com.winmoney.entities.Ouvrier"/>
+    <mapping class="com.winmoney.entities.Commande"/>
+    <mapping class="com.winmoney.entities.MatierePremiereProduit"/>
+    <mapping class="com.winmoney.entities.CommandeproduitId"/>
+    <mapping class="com.winmoney.entities.Matierepremiere"/>
+    <mapping class="com.winmoney.entities.ProduitService"/>
+    <mapping class="com.winmoney.entities.ProduitServiceId"/>
+    <mapping class="com.winmoney.entities.ChefServiceOuvrierId"/>
+    <mapping class="com.winmoney.entities.Promoteur"/>
+    <mapping class="com.winmoney.entities.Produit"/>
+    <mapping class="com.winmoney.entities.Service"/>
+    <mapping class="com.winmoney.entities.ClientCommande"/>
+    <mapping class="com.winmoney.entities.Commandeproduit"/>
+    <mapping class="com.winmoney.entities.Dg"/>
+    <mapping class="com.winmoney.entities.ClientCommandeId"/>
+    <mapping class="com.winmoney.entities.ChefServiceOuvrier"/>
+    <mapping class="com.winmoney.entities.Client"/>
+    <mapping class="com.winmoney.entities.Chefservice"/>
+    <mapping class="com.winmoney.entities.Caracteristique"/>
+    <mapping class="com.winmoney.entities.Secretaire"/>
+  </session-factory>
+</hibernate-configuration>
